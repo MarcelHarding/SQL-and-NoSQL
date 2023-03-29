@@ -1,6 +1,6 @@
-# Bancos de dados relacionais( SQL ) x Bancos de dados não relacionais( NoSQL )
+#  Tópicos avançados de Bancos Relacionais ( SQL ) para Bancos não relacionais ( NoSQL )
 
-## Tópicos avançados de SQL e NoSQL
+## ![Captura de tela 2023-03-29 123613](https://user-images.githubusercontent.com/106993667/228523647-afa5e629-dd61-4f2f-8371-f8a349b8b699.png) x  ![Captura de tela 2023-03-29 123232](https://user-images.githubusercontent.com/106993667/228522957-b0c1c950-c9c1-47a2-8b50-464a53759873.png)
 
 Com o SQL, você pode executar vários comandos para criar, alterar, gerenciar, consultar, dentre outras informações no seu banco de dados. Já o NoSQL foi criado para ter uma performance melhor e uma escalabilidade mais horizontal para suprir necessidades onde os bancos relacionais não são eficazes.
  
