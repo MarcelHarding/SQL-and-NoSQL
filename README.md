@@ -5,10 +5,10 @@
 Com o SQL, você pode executar vários comandos para criar, alterar, gerenciar, consultar, dentre outras informações no seu banco de dados. Já o NoSQL foi criado para ter uma performance melhor e uma escalabilidade mais horizontal para suprir necessidades onde os bancos relacionais não são eficazes.
  
  ## Vantagens de um banco de dados SQL
-  - Escalabilidade - A facilidade de manipulação dos dados no banco tornam o SQL uma ótima escolha para bancos de dados de grande porte ou com previsão de alta escalabilidade.
-  -  Manutenção - O SQL conta com recursos nativos de automação de processos de reparo, manutenção e controle do banco de dados. 
-  - Velocidade - A performance dos bancos de dados SQL é de alta eficiência, com mínimo uso de memória RAM, menor carga da CPU e um menor custo de armazenamento.
-  - Flexibilidade - Bancos de dados SQL permitem que o administrador faça alterações no banco sem interromper suas opções, isto é, torná-lo temporariamente indisponível.
+ 1.  Escalabilidade - A facilidade de manipulação dos dados no banco tornam o SQL uma ótima escolha para bancos de dados de grande porte ou com previsão de alta escalabilidade.
+ 2.   Manutenção - O SQL conta com recursos nativos de automação de processos de reparo, manutenção e controle do banco de dados. 
+ 3.  Velocidade - A performance dos bancos de dados SQL é de alta eficiência, com mínimo uso de memória RAM, menor carga da CPU e um menor custo de armazenamento.
+ 4.  Flexibilidade - Bancos de dados SQL permitem que o administrador faça alterações no banco sem interromper suas opções, isto é, torná-lo temporariamente indisponível.
  
  ## Vantagens de um Banco de Dados NoSQL
  - Mais liberdade - BDs NoSQL permitem que se armazene informação estruturada, semiestruturada e não estruturada. Além da flexibilidade, bancos de dados NoSQL permitem que a informação seja armazenada no formato apropriado ou necessário para que outras aplicações façam uso dela.
